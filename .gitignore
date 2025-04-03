@@ -1,0 +1,21 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.virtualenv
+pip-log.txt
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.bak
+*.tmp
+
+# OS related
+.DS_Store
+Thumbs.db
