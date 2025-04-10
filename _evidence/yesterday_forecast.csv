@@ -1,0 +1,12 @@
+city,state,country,date,avg_temp,min_temp,max_temp,avg_humidity,dominant_weather
+Sioux Falls,South Dakota,US,2025-04-09,12.82,12.82,12.82,30.0,Clouds
+Great Falls,Montana,US,2025-04-09,14.13,14.13,14.13,22.0,Clear
+Houghton,Michigan,US,2025-04-09,-2.73,-2.73,-2.73,62.0,Clear
+Fargo,North Dakota,US,2025-04-09,7.0,7,7,55.0,Clear
+Duluth,Minnesota,US,2025-04-09,2.89,2.89,2.89,35.0,Clouds
+Bismarck,North Dakota,US,2025-04-09,14.49,14.49,14.49,35.0,Clouds
+Aberdeen,South Dakota,US,2025-04-09,12.92,12.92,12.92,30.0,Clear
+Grand Island,Nebraska,US,2025-04-09,19.62,19.62,19.62,36.0,Clear
+Glasgow,Montana,US,2025-04-09,16.39,16.39,16.39,18.0,Clouds
+Omaha,Nebraska,US,2025-04-09,14.87,14.87,14.87,32.0,Clouds
+Portland,Oregon,US,2025-04-09,13.42,13.42,13.42,80.0,Clouds

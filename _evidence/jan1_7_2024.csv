@@ -1,0 +1,78 @@
+city,state,country,date,avg_temp,min_temp,max_temp,avg_humidity,dominant_weather
+Sioux Falls,South Dakota,US,2024-01-01,-4.36,-4.36,-4.36,78.0,Clouds
+Sioux Falls,South Dakota,US,2024-01-02,-1.34,-1.34,-1.34,74.0,Clear
+Sioux Falls,South Dakota,US,2024-01-03,-1.86,-1.86,-1.86,85.0,Clouds
+Sioux Falls,South Dakota,US,2024-01-04,-3.41,-3.41,-3.41,74.0,Clouds
+Sioux Falls,South Dakota,US,2024-01-05,-2.29,-2.29,-2.29,88.0,Clouds
+Sioux Falls,South Dakota,US,2024-01-06,-0.3,-0.3,-0.3,89.0,Mist
+Sioux Falls,South Dakota,US,2024-01-07,-3.41,-3.41,-3.41,80.0,Snow
+Great Falls,Montana,US,2024-01-01,7.55,7.55,7.55,53.0,Clear
+Great Falls,Montana,US,2024-01-02,-0.39,-0.39,-0.39,58.0,Clear
+Great Falls,Montana,US,2024-01-03,0.15,0.15,0.15,55.0,Clear
+Great Falls,Montana,US,2024-01-04,-2.18,-2.18,-2.18,68.0,Clear
+Great Falls,Montana,US,2024-01-05,2.15,2.15,2.15,54.0,Clear
+Great Falls,Montana,US,2024-01-06,-0.84,-0.84,-0.84,58.0,Clear
+Great Falls,Montana,US,2024-01-07,3.15,3.15,3.15,36.0,Clouds
+Houghton,Michigan,US,2024-01-01,-5.47,-5.47,-5.47,86.0,Clouds
+Houghton,Michigan,US,2024-01-02,-1.88,-1.88,-1.88,58.0,Clear
+Houghton,Michigan,US,2024-01-03,0.32,0.32,0.32,89.0,Clouds
+Houghton,Michigan,US,2024-01-04,-6.01,-6.01,-6.01,64.0,Clouds
+Houghton,Michigan,US,2024-01-05,-6.96,-6.96,-6.96,85.0,Snow
+Houghton,Michigan,US,2024-01-06,-4.16,-4.16,-4.16,90.0,Haze
+Houghton,Michigan,US,2024-01-07,-1.72,-1.72,-1.72,97.0,Clouds
+Fargo,North Dakota,US,2024-01-01,-6.63,-6.63,-6.63,86.0,Snow
+Fargo,North Dakota,US,2024-01-02,-0.96,-0.96,-0.96,77.0,Clear
+Fargo,North Dakota,US,2024-01-03,-1.1,-1.1,-1.1,85.0,Clear
+Fargo,North Dakota,US,2024-01-04,-8.9,-8.9,-8.9,78.0,Snow
+Fargo,North Dakota,US,2024-01-05,-5.58,-5.58,-5.58,81.0,Clouds
+Fargo,North Dakota,US,2024-01-06,0.03,0.03,0.03,91.0,Mist
+Fargo,North Dakota,US,2024-01-07,-10.38,-10.38,-10.38,84.0,Clear
+Duluth,Minnesota,US,2024-01-01,-5.1,-5.1,-5.1,82.0,Clouds
+Duluth,Minnesota,US,2024-01-02,-4.94,-4.94,-4.94,83.0,Clouds
+Duluth,Minnesota,US,2024-01-03,0.8,0.8,0.8,82.0,Clouds
+Duluth,Minnesota,US,2024-01-04,-6.62,-6.62,-6.62,70.0,Clouds
+Duluth,Minnesota,US,2024-01-05,-6.09,-6.09,-6.09,75.0,Snow
+Duluth,Minnesota,US,2024-01-06,-0.96,-0.96,-0.96,93.0,Snow
+Duluth,Minnesota,US,2024-01-07,-0.76,-0.76,-0.76,92.0,Mist
+Bismarck,North Dakota,US,2024-01-01,-6.11,-6.11,-6.11,87.0,Clear
+Bismarck,North Dakota,US,2024-01-02,1.77,1.77,1.77,71.0,Clear
+Bismarck,North Dakota,US,2024-01-03,-0.32,-0.32,-0.32,86.0,Clear
+Bismarck,North Dakota,US,2024-01-04,-6.86,-6.86,-6.86,75.0,Clouds
+Bismarck,North Dakota,US,2024-01-05,-4.11,-4.11,-4.11,91.0,Clouds
+Bismarck,North Dakota,US,2024-01-06,-4.13,-4.13,-4.13,89.0,Clouds
+Bismarck,North Dakota,US,2024-01-07,-5.63,-5.63,-5.63,85.0,Clouds
+Aberdeen,South Dakota,US,2024-01-01,-6.34,-6.34,-6.34,85.0,Clear
+Aberdeen,South Dakota,US,2024-01-02,-4.5,-4.5,-4.5,84.0,Clear
+Aberdeen,South Dakota,US,2024-01-03,-2.15,-2.15,-2.15,86.0,Clear
+Aberdeen,South Dakota,US,2024-01-04,-4.41,-4.41,-4.41,68.0,Clouds
+Aberdeen,South Dakota,US,2024-01-05,-2.9,-2.9,-2.9,93.0,Clouds
+Aberdeen,South Dakota,US,2024-01-06,0.34,0.34,0.34,86.0,Clouds
+Aberdeen,South Dakota,US,2024-01-07,-8.15,-8.15,-8.15,81.0,Clear
+Grand Island,Nebraska,US,2024-01-01,-4.31,-4.31,-4.31,79.0,Clouds
+Grand Island,Nebraska,US,2024-01-02,-2.44,-2.44,-2.44,89.0,Clouds
+Grand Island,Nebraska,US,2024-01-03,0.58,0.58,0.58,81.0,Clear
+Grand Island,Nebraska,US,2024-01-04,-3.51,-3.51,-3.51,94.0,Mist
+Grand Island,Nebraska,US,2024-01-05,-1.06,-1.06,-1.06,95.0,Mist
+Grand Island,Nebraska,US,2024-01-06,-1.06,-1.06,-1.06,90.0,Mist
+Grand Island,Nebraska,US,2024-01-07,-2.12,-2.12,-2.12,78.0,Clouds
+Glasgow,Montana,US,2024-01-01,-2.51,-2.51,-2.51,74.0,Clear
+Glasgow,Montana,US,2024-01-02,2.49,2.49,2.49,81.0,Clouds
+Glasgow,Montana,US,2024-01-03,-2.85,-2.85,-2.85,87.0,Clear
+Glasgow,Montana,US,2024-01-04,-4.9,-4.9,-4.9,91.0,Clouds
+Glasgow,Montana,US,2024-01-05,-2.81,-2.81,-2.81,90.0,Clouds
+Glasgow,Montana,US,2024-01-06,-2.01,-2.01,-2.01,74.0,Clouds
+Glasgow,Montana,US,2024-01-07,-1.84,-1.84,-1.84,72.0,Clouds
+Omaha,Nebraska,US,2024-01-01,-2.48,-2.48,-2.48,84.0,Clouds
+Omaha,Nebraska,US,2024-01-02,-1.06,-1.06,-1.06,79.0,Clear
+Omaha,Nebraska,US,2024-01-03,-0.63,-0.63,-0.63,89.0,Clouds
+Omaha,Nebraska,US,2024-01-04,-2.63,-2.63,-2.63,94.0,Mist
+Omaha,Nebraska,US,2024-01-05,-0.17,-0.17,-0.17,85.0,Clouds
+Omaha,Nebraska,US,2024-01-06,0.12,0.12,0.12,86.0,Mist
+Omaha,Nebraska,US,2024-01-07,-1.07,-1.07,-1.07,86.0,Snow
+Portland,Oregon,US,2024-01-01,6.75,6.75,6.75,95.0,Clouds
+Portland,Oregon,US,2024-01-02,7.63,7.63,7.63,77.0,Clouds
+Portland,Oregon,US,2024-01-03,6.29,6.29,6.29,82.0,Rain
+Portland,Oregon,US,2024-01-04,9.69,9.69,9.69,90.0,Rain
+Portland,Oregon,US,2024-01-05,9.21,9.21,9.21,95.0,Clouds
+Portland,Oregon,US,2024-01-06,8.86,8.86,8.86,82.0,Clouds
+Portland,Oregon,US,2024-01-07,6.16,6.16,6.16,88.0,Rain
